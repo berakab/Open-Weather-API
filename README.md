@@ -16,4 +16,6 @@ run python updates and dependancies
 
 ~create openweather api account
 
+~create api.txt file for api key 
+
 ~ensure requests packages are installed
